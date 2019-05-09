@@ -18,7 +18,7 @@ global loadirs
 global irh0
 global irh1
 global irh2
-global ir3
+global irh3
 global irh4
 global irh5
 global irh6
@@ -34,7 +34,7 @@ global irh15
 extern irh0
 extern irh1
 extern irh2
-extern ir3
+extern irh3
 extern irh4
 extern irh5
 extern irh6
