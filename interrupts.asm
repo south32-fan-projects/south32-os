@@ -54,6 +54,97 @@ call irh0
 popa
 iret
 
+ir1:
+pusha
+call irh1
+popa
+iret
+
+ir2:
+pusha
+call irh2
+popa
+iret
+
+ir3: 
+pusha
+call irh3
+popa
+iret
+
+ir4:
+pusha
+call irh4
+popa
+iret
+
+ir5:
+pusha
+call irh5
+popa
+iret
+
+ir6:
+pusha 
+call irh6
+popa
+iret 
+
+ir7: 
+pusha
+call irh7
+popa 
+iret
+
+ir8:
+pusha
+call irh8
+popa
+iret
+
+ir9: 
+pusha
+call irh9
+popa 
+iret
+
+ir10:
+pusha
+call irh10
+popa
+iret
+
+ir11:
+pusha
+call irh11
+popa
+iret 
+
+ir12: 
+pusha
+call irh12
+popa
+iret
+
+ir13:
+pusha
+call irh13
+popa
+iret
+
+ir14:
+pusha 
+call irh14
+popa 
+iret
+
+ir15: 
+pusha
+call irh15
+popa
+iret
+; im on the school pc lul
+; finished this on the school pc 
 
 
 ; not finished yet 
