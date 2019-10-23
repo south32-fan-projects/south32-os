@@ -1,3 +1,5 @@
+; interrupts
+
 global ir0
 global ir1
 global ir2
@@ -143,7 +145,6 @@ pusha
 call irh15
 popa
 iret
+
 ; im on the school pc lul
 ; finished this on the school pc 
-
-
